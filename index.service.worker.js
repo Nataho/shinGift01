@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1734746965|925905680';
+const CACHE_VERSION = '1734748648|212064481';
 /** @type {string} */
 const CACHE_PREFIX = 'Sheena-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
